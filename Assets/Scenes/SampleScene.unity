@@ -924,7 +924,7 @@ MonoBehaviour:
   _angleOffset: 0
   _maxAngle: 70
   _minAngle: -30
-  _rotateDuration: 1.5
+  _rotateDuration: 3
 --- !u!212 &1358973015
 SpriteRenderer:
   m_ObjectHideFlags: 0
